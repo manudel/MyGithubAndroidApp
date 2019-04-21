@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyGithub</string>
+    <string name="login_activity_name">Login</string>
+    <string name="repos_activity_name">Repositories</string>
+
+    <string name="login_text_info">Enter your GitHub credentials</string>
+    <string name="unauthorized_text">Wrong credentials ! Try again</string>
+    <string name="account_hint">account</string>
+    <string name="password_hint">password</string>
+    <string name="login_text_btn">Login</string>
+    <string name="empty_input">Empty input</string>
+</resources>
